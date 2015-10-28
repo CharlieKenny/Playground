@@ -1,0 +1,21 @@
+{
+"name": "playground",
+"version": "0.0.1",
+"homepage": "https://github.com/vinylhero/Playground",
+"authors": [
+"Liam <liam.middleton@rbi.co.uk>"
+],
+"description": "Carbon Playground",
+"main": "app.js",
+"moduleType": [
+"node"
+],
+"license": "MIT",
+"ignore": [
+"**/.*",
+"node_modules",
+"bower_components",
+"test",
+"tests"
+]
+}
